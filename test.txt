@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 One
 two
 ready
 go!
+=======
+>>>>>>> b68d108 (sup nerds)
